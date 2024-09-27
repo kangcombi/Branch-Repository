@@ -1,3 +1,3 @@
-created new file
+created new DOG
 for learning about branch
 on opensw basic lecture
